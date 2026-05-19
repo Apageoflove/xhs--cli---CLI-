@@ -14,3 +14,4 @@ exports/
 jieba.cache
 *.tmp
 .snap/
+.github/
