@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+.claude/
 .venv/
 dist/
 *.egg-info/
