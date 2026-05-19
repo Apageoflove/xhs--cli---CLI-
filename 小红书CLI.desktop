@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=小红书 CLI
+Comment=Xiaohongshu Interactive Terminal
+Icon=/media/work/Additional3/Agent/reds/assets/icon.png
+Exec=/media/work/Additional3/Agent/reds/.venv/bin/python /media/work/Additional3/Agent/reds/xhs_repl.py
+Terminal=true
+Categories=Network;Utility;

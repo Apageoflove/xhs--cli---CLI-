@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.playwright-mcp/
+xhs_login_page.png
+cookies.json
+exports/
+jieba.cache
+*.tmp
+.snap/
